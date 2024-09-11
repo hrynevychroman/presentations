@@ -1,0 +1,5 @@
+packages:
+  - ./acts/*
+
+catalog:
+  slidev: ^1.0.0
