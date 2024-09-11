@@ -1,7 +1,7 @@
 ---
 # You can also start simply with 'default'
 theme: apple-basic
-title: Greeting 
+title: Git & Workflow
 class: text-center flex items-center justify-center flex-col h-full
 # https://sli.dev/features/drawing
 drawings:
