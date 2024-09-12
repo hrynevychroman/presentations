@@ -137,6 +137,19 @@ It is very important to have a good PR description with all the necessary inform
 Here is an example of a good PR description: [PR link](https://github.com/radix-vue/radix-vue/pull/1257)
 
 ---
+
+## Automation tools
+
+<br />
+
+List of tools that help with configuring git hooks and automating tasks, that needs to be shared across team.
+
+- [Simple-git-hooks](https://github.com/toplenboren/simple-git-hooks)
+- [Husky](https://typicode.github.io/husky/)
+- [Lint-staged](https://github.com/lint-staged/lint-staged)
+- [Commitlint](https://commitlint.js.org/)
+
+---
 class: text-center flex items-center justify-center flex-col h-full
 ---
 
